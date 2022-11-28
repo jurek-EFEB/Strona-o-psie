@@ -1,0 +1,10 @@
+body {
+  background-color: yellowgreen;
+}
+table * {
+  border: 1px solid;
+  background-color: white;
+}
+th {
+  background-color: gray;;
+}
